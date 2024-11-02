@@ -12,4 +12,4 @@
   <li>Adafruit_SSD1306</li>
 </ul>
 <p>The final project, when created, boasts a thermometer, pressure sensor, altitude reader, and weather predictor (though rudimentary).</p>
-<p style="font-size: 5"><i>And also a nice little opening screen...</i></p>
+<p style="font-size: 10px;"><i>And also a nice little opening screen...</i></p>
